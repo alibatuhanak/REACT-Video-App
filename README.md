@@ -1,10 +1,10 @@
 ### :camera: Screenshots
 
 <div align="center">
- <img src="https://github.com/alibatuhanak/REACT-Videos-App/blob/main/images/1.png" alt="img"/>
- <img src="https://github.com/alibatuhanak/REACT-Videos-App/blob/main/images/2.png" alt="img"/>
- <img src="https://github.com/alibatuhanak/REACT-Videos-App/blob/main/images/3.png" alt="img"/>
- <img src="https://github.com/alibatuhanak/REACT-Videos-App/blob/main/images/4.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/REACT-Video-App/blob/main/images/2.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/REACT-Video-App/blob/main/images/3.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/REACT-Video-App/blob/main/images/4.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/REACT-Video-App/blob/main/images/1.png" alt="img"/>
 </div>
 
 ### :space_invader: Tech Stack
